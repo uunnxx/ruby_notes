@@ -1,0 +1,15 @@
+.byebug_history
+.env
+*.gem
+*.rbc
+.repl_history
+
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
